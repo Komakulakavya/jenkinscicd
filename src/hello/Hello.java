@@ -4,5 +4,6 @@ public class Hello {
      System.out.println("Hello from Pipeline CI!");
      System.out.println("Hiiii from Pipeline CI!");
      System.out.println("checking webhoook");
+     System.out.println("webhoook");
    }
 }
